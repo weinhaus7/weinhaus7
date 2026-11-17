@@ -36,9 +36,11 @@
     <td valign="top">
       <img src="img/selo_no_ar.svg" height="22" alt="No ar / Live">
       <h3>PLANALTO</h3>
-      <b>Simulador da Presidência do Brasil.</b> Não existe lista de decisões: você escreve a medida com as suas palavras. 513 deputados votam um a um, 27 governadores cobram, a economia reage e a imprensa repercute.
+      <b>Simulador da Presidência do Brasil.</b> Você escreve a medida com as suas palavras. A IA só interpreta o texto; um motor determinístico decide o resto: o instrumento que a Constituição exige, do decreto à PEC, e o voto de cada um dos 594 parlamentares. O placar previsto é a própria votação, rodada antes com a mesma semente.
       <br>
-      <i><b>A simulator of the Brazilian presidency.</b> There is no list of choices: you write each measure in your own words. 513 deputies vote one by one, 27 governors push back, the economy reacts and the press covers it.</i>
+      <i><b>A simulator of the Brazilian presidency.</b> You write each measure in your own words. The AI only interprets the text; a deterministic engine decides the rest: the instrument the Constitution requires, from a decree to a constitutional amendment, and the vote of each of the 594 legislators. The projected tally is the vote itself, run ahead with the same seed.</i>
+      <br><br>
+      <code>TypeScript</code> <code>Next.js</code> <code>Cloudflare&nbsp;Workers</code> <code>160K-line&nbsp;engine</code> <code>3,500&nbsp;tests</code>
       <br><br>
       <a href="https://planalto.fun"><b>Jogar · Play</b></a> ·
       <a href="https://koruinteractive.com/planalto/">Sobre</a> /
@@ -56,9 +58,11 @@
     <td valign="top">
       <img src="img/selo_no_ar.svg" height="22" alt="No ar / Live">
       <h3>RESOLUTE</h3>
-      <b>Simulador da Presidência dos Estados Unidos.</b> Você escreve o que faz, em inglês ou em português, e 535 congressistas, nove juízes da Suprema Corte, cinquenta governadores e um país de dezoito grupos reagem.
+      <b>Simulador da Presidência dos Estados Unidos.</b> Os 535 congressistas têm nome real e partem da ideologia medida de cada um (DW-NOMINATE). Cada um vota pelo próprio modelo, e a chance que aparece no botão é a chance da votação. Bilíngue até o parser, com um Fed que segue a regra de Taylor e a noite da eleição apurada estado por estado.
       <br>
-      <i><b>A simulator of the American presidency.</b> You write what you do, in English or in Portuguese, and 535 members of Congress, nine justices, fifty governors and a country of eighteen groups react.</i>
+      <i><b>A simulator of the American presidency.</b> All 535 members of Congress carry real names and start from their measured ideology (DW-NOMINATE). Each votes through their own model, and the odds on the button are the odds of the vote. Bilingual down to the parser, with a Taylor-rule Fed and an election night counted state by state.</i>
+      <br><br>
+      <code>TypeScript</code> <code>Next.js</code> <code>Cloudflare&nbsp;Workers</code> <code>18&nbsp;modules</code> <code>138K&nbsp;lines</code> <code>574&nbsp;tests</code>
       <br><br>
       <a href="https://resolutethegame.com"><b>Jogar · Play</b></a> ·
       <a href="https://koruinteractive.com/resolute/">Sobre</a> /
@@ -76,9 +80,9 @@
     <td valign="top">
       <img src="img/selo_producao.svg" height="22" alt="Em produção / In production">
       <h3>OCTÓGONO</h3>
-      <b>Carreira de MMA.</b> Do primeiro contrato à aposentadoria são 22 lutas, e o que acontece entre uma e outra pesa tanto quanto o que acontece dentro. Online, os dois escolhem o golpe ao mesmo tempo, sem ver o do outro.
+      <b>Carreira de MMA em 22 lutas.</b> O que acontece entre uma luta e outra pesa tanto quanto o que acontece dentro. No online, os dois escolhem o golpe ao mesmo tempo, sem ver o do outro.
       <br>
-      <i><b>MMA career.</b> Retirement is 22 fights away, and what happens between fights matters as much as what happens in them. Online, both fighters pick the move at the same time, blind.</i>
+      <i><b>An MMA career in 22 fights.</b> What happens between fights matters as much as what happens in them. Online, both fighters pick their move at the same time, blind.</i>
       <br><br>
       <a href="https://koruinteractive.com/octogono/"><b>Sobre</b></a> /
       <a href="https://koruinteractive.com/en/octogono/"><b>About</b></a>
@@ -94,9 +98,11 @@
     <td valign="top">
       <img src="img/selo_steam.svg" height="22" alt="Em breve / Coming soon">
       <h3>Pega no Tranco</h3>
-      <b>Sobrevivência e carro em primeira pessoa.</b> Minas Gerais, 1996. Monte o carro do seu avô parafuso por parafuso, viva da roça, do bar e do truco, e chame até três primos. Para PC, na Steam.
+      <b>Sobrevivência e carro em primeira pessoa</b>, Minas Gerais, 1996. Um mundo aberto de 8 × 5,7 km gerado por código a partir do desenho do mapa: relevo, estradas, duas cidades e 470 mil árvores, com dia e noite pelo sol de julho a 21° Sul. Para até quatro jogadores.
       <br>
-      <i><b>First-person survival and car building.</b> Rural Brazil, 1996. Rebuild your grandfather's car bolt by bolt, live off the land, the bar and card games, and call up to three cousins. For PC, on Steam.</i>
+      <i><b>First-person survival and car building</b>, rural Brazil, 1996. An 8 × 5.7 km open world generated by code from the map drawing: terrain, roads, two towns and 470,000 trees, with day and night driven by the July sun at 21° South. For up to four players.</i>
+      <br><br>
+      <code>Unity&nbsp;6&nbsp;(URP)</code> <code>C#</code> <code>96K&nbsp;lines</code> <code>138K&nbsp;lines&nbsp;of&nbsp;Python&nbsp;tooling</code> <code>Steam</code>
       <br><br>
       <a href="https://www.youtube.com/watch?v=HvUfyR13jH8"><b>Trailer</b></a> ·
       <a href="https://koruinteractive.com/peganotranco/">Sobre</a> /
