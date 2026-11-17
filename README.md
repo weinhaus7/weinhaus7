@@ -36,11 +36,9 @@
     <td valign="top">
       <img src="img/selo_no_ar.svg" height="22" alt="No ar / Live">
       <h3>PLANALTO</h3>
-      <b>Simulador da Presidência do Brasil.</b> Você escreve a medida com as suas palavras. A IA só interpreta o texto; um motor determinístico decide o resto: o instrumento que a Constituição exige, do decreto à PEC, e o voto de cada um dos 594 parlamentares. O placar previsto é a própria votação, rodada antes com a mesma semente.
+      <b>Simulador da Presidência do Brasil.</b> Aqui se governa escrevendo, sem menu de opções. Vença a eleição de 2026 contra os candidatos reais, compre o Centrão com emenda e ministério, brigue com o Banco Central, sobreviva à CPI e ao impeachment. E, se a República cansar, traga a Coroa de volta.
       <br>
-      <i><b>A simulator of the Brazilian presidency.</b> You write each measure in your own words. The AI only interprets the text; a deterministic engine decides the rest: the instrument the Constitution requires, from a decree to a constitutional amendment, and the vote of each of the 594 legislators. The projected tally is the vote itself, run ahead with the same seed.</i>
-      <br><br>
-      <code>TypeScript</code> <code>Next.js</code> <code>Cloudflare&nbsp;Workers</code> <code>160K-line&nbsp;engine</code> <code>3,500&nbsp;tests</code>
+      <i><b>A simulator of the Brazilian presidency.</b> You govern by writing, with no menu of options. Win the 2026 election against the real candidates, buy the Centrão with budget amendments and ministries, pick a fight with the Central Bank, survive inquiries and impeachment. And if the Republic wears thin, bring the Crown back.</i>
       <br><br>
       <a href="https://planalto.fun"><b>Jogar · Play</b></a> ·
       <a href="https://koruinteractive.com/planalto/">Sobre</a> /
@@ -58,11 +56,9 @@
     <td valign="top">
       <img src="img/selo_no_ar.svg" height="22" alt="No ar / Live">
       <h3>RESOLUTE</h3>
-      <b>Simulador da Presidência dos Estados Unidos.</b> Os 535 congressistas têm nome real e partem da ideologia medida de cada um (DW-NOMINATE). Cada um vota pelo próprio modelo, e a chance que aparece no botão é a chance da votação. Bilíngue até o parser, com um Fed que segue a regra de Taylor e a noite da eleição apurada estado por estado.
+      <b>Simulador da Presidência dos Estados Unidos.</b> Tome posse em janeiro de 2029 e descubra que nada passa de graça: negocie com as bancadas, enfrente o filibuster, indique juízes para a Suprema Corte, pressione o Fed e escape do shutdown. Entre uma crise e outra, o Air Force One, três debates e a noite da eleição. Em inglês e em português.
       <br>
-      <i><b>A simulator of the American presidency.</b> All 535 members of Congress carry real names and start from their measured ideology (DW-NOMINATE). Each votes through their own model, and the odds on the button are the odds of the vote. Bilingual down to the parser, with a Taylor-rule Fed and an election night counted state by state.</i>
-      <br><br>
-      <code>TypeScript</code> <code>Next.js</code> <code>Cloudflare&nbsp;Workers</code> <code>18&nbsp;modules</code> <code>138K&nbsp;lines</code> <code>574&nbsp;tests</code>
+      <i><b>A simulator of the American presidency.</b> Take the oath in January 2029 and find out that nothing passes for free: bargain with the caucuses, face the filibuster, put justices on the Supreme Court, lean on the Fed and dodge a shutdown. Between crises, Air Force One, three debates and election night. In English and Portuguese.</i>
       <br><br>
       <a href="https://resolutethegame.com"><b>Jogar · Play</b></a> ·
       <a href="https://koruinteractive.com/resolute/">Sobre</a> /
@@ -80,9 +76,9 @@
     <td valign="top">
       <img src="img/selo_producao.svg" height="22" alt="Em produção / In production">
       <h3>OCTÓGONO</h3>
-      <b>Carreira de MMA em 22 lutas.</b> O que acontece entre uma luta e outra pesa tanto quanto o que acontece dentro. No online, os dois escolhem o golpe ao mesmo tempo, sem ver o do outro.
+      <b>Carreira de MMA.</b> Você assina o primeiro contrato sem apelido e com o cartel zerado. São 22 lutas até a aposentadoria, e fora do octógono a coisa também aperta: patrocínio duvidoso, corte de peso dando errado, treinador querendo sair. No online, os dois escolhem o golpe ao mesmo tempo, sem ver o do outro.
       <br>
-      <i><b>An MMA career in 22 fights.</b> What happens between fights matters as much as what happens in them. Online, both fighters pick their move at the same time, blind.</i>
+      <i><b>MMA career.</b> You sign your first contract with no nickname and a clean record. Retirement is 22 fights away, and outside the cage it gets rough too: shady sponsors, weight cuts gone wrong, a coach who wants out. Online, both fighters pick their move at the same time, blind.</i>
       <br><br>
       <a href="https://koruinteractive.com/octogono/"><b>Sobre</b></a> /
       <a href="https://koruinteractive.com/en/octogono/"><b>About</b></a>
@@ -98,11 +94,9 @@
     <td valign="top">
       <img src="img/selo_steam.svg" height="22" alt="Em breve / Coming soon">
       <h3>Pega no Tranco</h3>
-      <b>Sobrevivência e carro em primeira pessoa</b>, Minas Gerais, 1996. Um mundo aberto de 8 × 5,7 km gerado por código a partir do desenho do mapa: relevo, estradas, duas cidades e 470 mil árvores, com dia e noite pelo sol de julho a 21° Sul. Para até quatro jogadores.
+      <b>Sobrevivência e carro em primeira pessoa.</b> Minas Gerais, 1996. Seu avô deixou no paiol um carro amarelo em peças e uma caderneta escrita à mão. Monte parafuso por parafuso, resolva na gambiarra, colha café, jogue truco valendo dinheiro e chame os primos para empurrar até pegar no tranco.
       <br>
-      <i><b>First-person survival and car building</b>, rural Brazil, 1996. An 8 × 5.7 km open world generated by code from the map drawing: terrain, roads, two towns and 470,000 trees, with day and night driven by the July sun at 21° South. For up to four players.</i>
-      <br><br>
-      <code>Unity&nbsp;6&nbsp;(URP)</code> <code>C#</code> <code>96K&nbsp;lines</code> <code>138K&nbsp;lines&nbsp;of&nbsp;Python&nbsp;tooling</code> <code>Steam</code>
+      <i><b>First-person survival and car building.</b> Rural Brazil, 1996. Your grandfather left a yellow car in pieces in the barn and a handwritten notebook. Rebuild it bolt by bolt, patch it up with wire and tape, pick coffee, play truco for money and call your cousins to push until it starts.</i>
       <br><br>
       <a href="https://www.youtube.com/watch?v=HvUfyR13jH8"><b>Trailer</b></a> ·
       <a href="https://koruinteractive.com/peganotranco/">Sobre</a> /
